@@ -11,7 +11,7 @@ A clean, modern, editorial-style personal portfolio website built with semantic 
 ## Screenshot
 ![Portfolio Screenshot](screenshot.png)
 
-Live link: (add after GitHub Pages is on)
+Live link: (https://jayrajsingh-x.github.io/Jayrajsingh_267111_portfolio/))
 
 ## Project Structure
 - `index.html` - Semantic structure containing Home/About, Skills, Projects, and Contact sections.

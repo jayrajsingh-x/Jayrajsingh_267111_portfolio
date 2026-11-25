@@ -2,7 +2,7 @@
 
 A clean, modern, editorial-style personal portfolio website built with semantic HTML5, CSS3, and vanilla JavaScript. Created as a Semester 3 web development college assignment for B.Tech Computer Science and Engineering at JG University.
 
-## Technologies Used
+## Technologie
 - HTML5 (Semantic elements)
 - CSS3 (Variables, Flexbox, CSS Grid, Responsive Design)
 - JavaScript (Vanilla ES6, DOM manipulation, Event Listeners, Intersection Observer)

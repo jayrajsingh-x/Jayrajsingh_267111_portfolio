@@ -1,5 +1,5 @@
 // ==========================================================================
-// Jayrajsingh Chunara — Portfolio JavaScript
+// Jayrajsingh Chunara — Portfolio
 // B.Tech Computer Science and Engineering (CSE), Semester 3, JG University
 // ==========================================================================
 
